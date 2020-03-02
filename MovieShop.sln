@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieShop.API", "MovieShop.API\MovieShop.API.csproj", "{40865F90-D73E-44BE-8EA6-63291AFE5D2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40865F90-D73E-44BE-8EA6-63291AFE5D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40865F90-D73E-44BE-8EA6-63291AFE5D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40865F90-D73E-44BE-8EA6-63291AFE5D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40865F90-D73E-44BE-8EA6-63291AFE5D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FDA12D4-AE4D-44A4-84B7-9B36D987317C}
+	EndGlobalSection
+EndGlobal
